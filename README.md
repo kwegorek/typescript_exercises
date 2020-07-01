@@ -1,1 +1,1 @@
-# typescript_exercises
+# typescript__exercises
